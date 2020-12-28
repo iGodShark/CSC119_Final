@@ -1,0 +1,6 @@
+5-0-There is an old rotting dead man on the ground.
+1-5-There appears to be writing on the wall: Beat the puzzle master at the center of this 121 room maze, and be rewarded with a golden key.
+2-2-There's some sort of portal in this room. I can't go through it, maybe it's the recieving end.
+0-10-There's a locked door heading south. Maybe this is the door that dead man wrote about in his diary! Now the only thing left is to find the key, probably the same key that writing on the wall was talking about.
+5-5-There's an old man with a long white beard: Hello, I am the puzzle master. So my goblins, trolls, and cyclopses have spread the news that you seek a golden key... First, you must beat me in the ancient game of tic tac toe! Be warned, if you loose, then I will have to kill you.
+8-8-There's an open portal... WOAH! I got teleported!
